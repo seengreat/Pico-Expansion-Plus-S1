@@ -15,24 +15,22 @@ Weight	50ｇ
 ## 2.1、Resource introduction
  Module pin definition is shown in the figure below:<br>
 ![image](https://github.com/seengreat/Pico-Expansion-Plus-S1/blob/main/Pico%20Expnsion%20PLUS%20S1.png)
-& PICO external expansion pins<br>
- Raspberry Pi Pico socket<br>
- The selective switch of GPIO LED<br>
- indicators to display the GPIO status<br>
- The selective switch of voltage for 4<br>
-    HY-2.0-4P connectors<br>
- SPI interface<br>
- DHT11/DS18B20 header<br>
- Expansion board power indicator<br>
- PICO reset button<br>
- User keys<br>
- 3.5mm audio jack<br>
- 4 HY-2.0-4P connectors<br>
- Micro SD card slot<br>
- ESP-01 solder joint<br>
- Full-color RGB (WS2812)<br>
- Buzzer switch<br>
- Passive buzzer<br>
+1&5->PICO external expansion pins<br>
+ 2->Raspberry Pi Pico socket<br>
+ 3->The selective switch of GPIO LED indicators to display the GPIO status<br>
+ 4->The selective switch of voltage for 4 HY-2.0-4P connectors<br>
+ 6->SPI interface<br>
+ 7->DHT11/DS18B20 header<br>
+ 8->Expansion board power indicator<br>
+ 9->PICO reset button<br>
+ 10->User keys<br>
+ 11->3.5mm audio jack<br>
+ 12->4 HY-2.0-4P connectors<br>
+ 13->Micro SD card slot<br>
+ 14->ESP-01 solder joint<br>
+ 15->Full-color RGB (WS2812)<br>
+ 16->Buzzer switch<br>
+ 17->Passive buzzer<br>
 GPIO LED Indicators: The GPIO status display function can be turned on by toggling the switch S1 to the ON state. At this time, when the GPIO is at a high level, the corresponding LED indicator light is on, otherwise the light is off. If you do not need to display the GPIO status through the LED status, you can turn the switch S1 to the OFF state.<br>
 It is easy of Two sets of 2*20 pins to access to the Raspberry Pi Pico expansion board or dupont wire to peripherals. <br>Both sides of the board are marked with clear<br>
 pin function silk screen, which is convenient for use and measurement.<br>
