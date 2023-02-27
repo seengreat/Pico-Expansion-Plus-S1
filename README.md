@@ -14,7 +14,7 @@ Weight	50ｇ
 # Ⅱ  Usage
 ## 2.1、Resource introduction
  Module pin definition is shown in the figure below:<br>
-![image](https://github.com/seengreat/Pico-Expansion-Plus-S1/blob/main/Pico%20Expnsion%20PLUS%20S1.png)
+![image](https://github.com/seengreat/Pico-Expansion-Plus-S1/blob/main/Pico%20Expnsion%20PLUS%20S1.png)<br>
 1&5->PICO external expansion pins<br>
  2->Raspberry Pi Pico socket<br>
  3->The selective switch of GPIO LED indicators to display the GPIO status<br>
